@@ -1,0 +1,6 @@
+
+# Ignore build output directories
+/dist/
+
+# Ignore package manager directories
+/node_modules/

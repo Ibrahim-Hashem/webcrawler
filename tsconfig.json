@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "outDir": "./dist",
+    "allowSyntheticDefaultImports": true
+  },
+  "include": ["./**/*.ts", "main.ts"],
+  "exclude": ["node_modules"]
+}
